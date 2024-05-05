@@ -4,8 +4,9 @@ export const Overview = () => {
   return (
     <div className="container">
       <h2>Overview of Big Data and Target's Approach</h2>
-      <p>In today's digital era, corporations like Target employ big data to revolutionize decision-making and marketing strategies...</p>
-      {/* Add more content here */}
+      <p>Target has been able to create detailed customer profiles, rich with consumer habits and preferences.</p>
+      <p>This precision marketing allows Target to tailor its services and products to individual customers, enhancing the overall customer experience and driving sales.</p>
+      <p>The extent of data collection involved in creating these profiles raises questions about consumer privacy.</p>
     </div>
   );
 }

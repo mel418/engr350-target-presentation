@@ -4,8 +4,8 @@ export const Conclusion = () => {
   return (
     <div className="container">
       <h2>Conclusion and Call to Action</h2>
-      <p>Summarize the key points covered in your presentation...</p>
-      {/* Add more content here */}
+      <p>The delicate balance between personalization and customer privacy in marketing is a key consideration in today’s digital age.</p>
+      <p>As we move further into the digital age, corporations must continue to prioritize the privacy and rights of their customers.</p>
     </div>
   );
 }

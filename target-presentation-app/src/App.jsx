@@ -5,7 +5,7 @@ import { Overview } from './components/overview';
 import { EthicalConsiderations } from './components/ethicalConsiderations';
 import { TargetResponse } from './components/targetResponse';
 import { Conclusion } from './components/conclusion';
-// import './App.css'
+import './App.css'
 
 function App() {
   return (
