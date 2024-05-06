@@ -3,10 +3,11 @@
   height: auto;
 }
 
-.ai-gen img {
-  width: 100px;
-}
 
 .nav-item {
+  font-size: 20px;
+}
+
+.nav-link {
   font-size: 20px;
 }
