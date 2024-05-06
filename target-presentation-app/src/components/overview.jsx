@@ -6,7 +6,7 @@ export const Overview = () => {
       <h2>You May Ask What is Big Data?</h2>
       <div className='row' style={{marginTop: '25px'}}>
         <img className='col' src='https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/694991_cDO5wuA0NdevLb45zHRvog.jpeg' style={{width: '-webkit-fill-available', maxWidth: '600px', marginRight: 'auto'}}/>
-        <img className='col' src = "https://lh3.googleusercontent.com/proxy/O0Ft033sokF5ZadPtI7hhQQL4oBJ4YIBS8_AB1csS7YP6J3DKPw6iNa9Jx9Uqa5AWG-MYOpo6SxUl3BVK23ahJyeA6sdXgU-V12SdazgRRaf58WlpAXV6ht3K3eZNUg0HtVdlCM-xQUTg3_j2swnVz8" style={{width: '-webkit-fill-available', maxWidth: '600px'}}/>
+        <img className='col' src = "https://www.clickz.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-07-at-4.46.13-PM.png" style={{width: '-webkit-fill-available', maxWidth: '600px'}}/>
       </div>
       <div style={{marginBottom: '50px'}}><a href='https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/694991_cDO5wuA0NdevLb45zHRvog.jpeg' target='_blank'>https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/694991_cDO5wuA0NdevLb45zHRvog.jpeg</a></div>
       <ul>
