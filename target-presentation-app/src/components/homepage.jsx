@@ -6,7 +6,7 @@ export const Homepage = () => {
       <h1 className="display-4">Balancing Personalization with Privacy at Target Corporation</h1>
       <p className="lead">Melody Gatan</p>
       <p>May 5, 2024</p>
-      <img src='target-billboard-1200x900.png' style={{width: '-webkit-fill-available', maxWidth: '900px'}} />
+      <img src='target-billboard-1200x900.png' style={{width: '-webkit-fill-available', maxWidth: '600px'}} />
     <div className='row' style={{ marginTop: '75px' }}>
       <div className='col' >
         <h2>The Privacy-Personalization Paradox</h2>
