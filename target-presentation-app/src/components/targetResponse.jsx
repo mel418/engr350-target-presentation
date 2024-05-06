@@ -10,6 +10,7 @@ export const TargetResponse = () => {
       </div>
       <ul  style={{ marginTop: '25px' }}>
         <li>Target's proactive approach to addressing privacy concerns through its "California Business Privacy Notice"</li>
+        <li><a href='https://corporate.target.com/about/contact-help/california-business-privacy-notice' target='_blank'>corporate.target.com/about/contact-help/california-business-privacy-notice</a></li>
         <li>Target has implemented a comprehensive privacy notice specifically tailored for California residents, outlining the procedures for collecting, using, and sharing personal information.</li>
         <li>The privacy notice details how Target collects and uses personal information, emphasizing transparency, accountability, and adherence to applicable laws and internal policies.</li>
         <li>Target demonstrates its commitment to ethical data practices by ensuring transparency, accountability, and respect for consumer rights in its handling of personal information.</li>
